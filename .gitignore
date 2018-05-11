@@ -259,3 +259,11 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/EjerciciosU3/Properties
+/EjerciciosU3/EjerciciosU3.csproj
+/EjerciciosU3/estilos.css
+/EjerciciosU3/packages.config
+/EjerciciosU3/Web.config
+/EjerciciosU3/Web.Debug.config
+/EjerciciosU3/Web.Release.config
+/EjerciciosU3.sln
